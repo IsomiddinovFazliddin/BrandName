@@ -873,10 +873,66 @@
       }
     }
   }
+  .hover\:bg-\[\#0b669b\] {
+    &:hover {
+      @media (hover: hover) {
+        background-color: #0b669b;
+      }
+    }
+  }
   .hover\:bg-\[\#23A6F0\] {
     &:hover {
       @media (hover: hover) {
         background-color: #23A6F0;
+      }
+    }
+  }
+  .hover\:bg-\[\#23a5f0bb\] {
+    &:hover {
+      @media (hover: hover) {
+        background-color: #23a5f0bb;
+      }
+    }
+  }
+  .hover\:bg-\[\#167fbb\] {
+    &:hover {
+      @media (hover: hover) {
+        background-color: #167fbb;
+      }
+    }
+  }
+  .hover\:bg-\[\#1373aa\] {
+    &:hover {
+      @media (hover: hover) {
+        background-color: #1373aa;
+      }
+    }
+  }
+  .hover\:bg-\[\#2583b9\] {
+    &:hover {
+      @media (hover: hover) {
+        background-color: #2583b9;
+      }
+    }
+  }
+  .hover\:bg-\[\#05659c\] {
+    &:hover {
+      @media (hover: hover) {
+        background-color: #05659c;
+      }
+    }
+  }
+  .hover\:bg-\[\#05659cbb\] {
+    &:hover {
+      @media (hover: hover) {
+        background-color: #05659cbb;
+      }
+    }
+  }
+  .hover\:bg-\[\#033552\] {
+    &:hover {
+      @media (hover: hover) {
+        background-color: #033552;
       }
     }
   }
